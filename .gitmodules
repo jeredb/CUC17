@@ -1,0 +1,6 @@
+[submodule "parsedown"]
+	path = parsedown
+	url = https://github.com/erusev/parsedown
+[submodule "php7-cascade-ws-ns"]
+	path = php7-cascade-ws-ns
+	url = https://github.com/wingmingchan/php7-cascade-ws-ns
